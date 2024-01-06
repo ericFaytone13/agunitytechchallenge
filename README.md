@@ -8,7 +8,7 @@ Provided Basic HTML,CSS & Redux functionality and React JS considering its not a
 
 ====Challenge 2====
 Provided Basic JSON and Statistic
-! Disclaimer: I wasn't able to finalize the CSS styling and haven't use typescript since it would take me awhile to code it, considering I only have basic typescript. Soon enough I will really applied typescript since its a best practice.
+! Disclaimer: I wasn't able to finalize the CSS styling and haven't use typescript since it would take me awhile to code it, considering I only have basic typescript. Soon enough I will really applied typescript since its a best practice.__
 
 
 Just run npm start
