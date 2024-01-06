@@ -21,4 +21,7 @@ npx create-react-app agunity
 npm install @reduxjs/toolkit
 
 <br />
+Thank you so much for the opportunity.
+<br /><br />
+
 by: Eric Faytone
